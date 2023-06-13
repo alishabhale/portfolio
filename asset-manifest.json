@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.c2ef94f2.chunk.css",
+    "main.js": "/portfolio/static/js/main.215e02e0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.215e02e0.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.a7d3c7eb.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.a7d3c7eb.js.map",
+    "static/js/2.04c2591f.chunk.js": "/portfolio/static/js/2.04c2591f.chunk.js",
+    "static/js/2.04c2591f.chunk.js.map": "/portfolio/static/js/2.04c2591f.chunk.js.map",
+    "static/js/3.9ec00c77.chunk.js": "/portfolio/static/js/3.9ec00c77.chunk.js",
+    "static/js/3.9ec00c77.chunk.js.map": "/portfolio/static/js/3.9ec00c77.chunk.js.map",
+    "static/js/4.4e03bbd4.chunk.js": "/portfolio/static/js/4.4e03bbd4.chunk.js",
+    "static/js/4.4e03bbd4.chunk.js.map": "/portfolio/static/js/4.4e03bbd4.chunk.js.map",
+    "static/js/5.6c0f0f6f.chunk.js": "/portfolio/static/js/5.6c0f0f6f.chunk.js",
+    "static/js/5.6c0f0f6f.chunk.js.map": "/portfolio/static/js/5.6c0f0f6f.chunk.js.map",
+    "static/js/6.bf31393e.chunk.js": "/portfolio/static/js/6.bf31393e.chunk.js",
+    "static/js/6.bf31393e.chunk.js.map": "/portfolio/static/js/6.bf31393e.chunk.js.map",
+    "static/js/7.7b6c5b48.chunk.js": "/portfolio/static/js/7.7b6c5b48.chunk.js",
+    "static/js/7.7b6c5b48.chunk.js.map": "/portfolio/static/js/7.7b6c5b48.chunk.js.map",
+    "static/js/8.2a091013.chunk.js": "/portfolio/static/js/8.2a091013.chunk.js",
+    "static/js/8.2a091013.chunk.js.map": "/portfolio/static/js/8.2a091013.chunk.js.map",
+    "static/js/9.5db31d36.chunk.js": "/portfolio/static/js/9.5db31d36.chunk.js",
+    "static/js/9.5db31d36.chunk.js.map": "/portfolio/static/js/9.5db31d36.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.c2ef94f2.chunk.css.map": "/portfolio/static/css/main.c2ef94f2.chunk.css.map",
+    "static/js/2.04c2591f.chunk.js.LICENSE.txt": "/portfolio/static/js/2.04c2591f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/portfolio/static/media/bg-effects.2715491b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7d3c7eb.js",
+    "static/js/2.04c2591f.chunk.js",
+    "static/css/main.c2ef94f2.chunk.css",
+    "static/js/main.215e02e0.chunk.js"
+  ]
+}
