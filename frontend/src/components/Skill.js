@@ -15,13 +15,13 @@ const Skill = () => {
           <img src='./images/icons/react-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
           React JS
         </div>
-        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='Node Js'>
-          <img src='./images/icons/nodejs-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
-          Node JS
+        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='Angular Js'>
+          <img src='./images/icons/angular-icon.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
+          Angular JS
         </div>
-        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='MongoDB'>
-          <img src='./images/icons/mongodb-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
-          MongoDB
+        <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='Backbone Js'>
+          <img src='./images/icons/backbone-js-icon.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />
+          Backbone JS
         </div>
         <div className='flex flex-col items-center' tabIndex='0' role='img' aria-label='HTML 5'>
           <img src='./images/icons/html5-original.svg' alt='' loading='lazy' className='w-16 mb-1' width='64px' height='64px' />

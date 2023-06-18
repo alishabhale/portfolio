@@ -13,7 +13,7 @@ const projects = [
     description: 'Basic Calculator using react',
     tools: ['React', 'CSS', 'HTML'],
     github: 'https://github.com/alishabhale/ReactCalculator',
-    link: 'https://festive-wilson-a51c32.netlify.app/',
+    link: 'https://github.com/alishabhale/ReactCalculator',
   }
 ];
 
