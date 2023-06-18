@@ -1,6 +1,7 @@
 # Portfolio
 
-<img src="https://raw.githubusercontent.com/Deelip7/react-portfolio/823322a0d329eb7433f0d45619cfe9875c4b450a/frontend/public/images/portfolio.webp" alt="illustration of a rocket"/>
+![image](https://github.com/alishabhale/portfolio/assets/44771856/4c2f2ec0-13b3-473d-b1a0-a86783de1fde)
+
 <p align="center"> My personal portfolio. Accessible and responsive SPA portfolio built with React.js. </p>
 
 ## Features
@@ -20,3 +21,6 @@
 - [https://www.pixeltrue.com/](https://www.pixeltrue.com/)
 
 ### Author
+
+Name: Alisha Bhale
+Version: 0.0.1
